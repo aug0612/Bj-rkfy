@@ -20,7 +20,7 @@ android {
         // validate the spotifyclient://callback redirect intent.
         // Replace SPOTIFY_CLIENT_ID with your own app's Client ID from
         // https://developer.spotify.com/dashboard
-        buildConfigField("String", "SPOTIFY_CLIENT_ID", "\"YOUR_SPOTIFY_CLIENT_ID\"")
+        buildConfigField("String", "SPOTIFY_CLIENT_ID", "\46112259e18347858bed6057adb615d8\"")
         buildConfigField("String", "SPOTIFY_REDIRECT_URI", "\"spotifyclient://callback\"")
     }
 
