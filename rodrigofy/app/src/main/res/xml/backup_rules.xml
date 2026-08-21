@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<full-backup-content>
-    <!-- Auth tokens live in EncryptedSharedPreferences and are intentionally excluded from backup. -->
-</full-backup-content>
