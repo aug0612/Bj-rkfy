@@ -1,0 +1,12 @@
+<resources>
+    <color name="sour_purple_10">#1B0A2E</color>
+    <color name="sour_purple_20">#2D1B4E</color>
+    <color name="sour_purple_40">#4A1D96</color>
+    <color name="sour_purple_60">#7C3AED</color>
+    <color name="sour_purple_80">#B388FF</color>
+    <color name="sour_lavender_90">#E9D8FD</color>
+    <color name="sour_lavender_95">#F3E8FF</color>
+    <color name="guts_maroon">#6B1E3C</color>
+    <color name="guts_black">#121016</color>
+    <color name="deja_vu_pink">#FF6EC7</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <!--
+        Base window theme. Material 3 theming (colors, typography, shapes)
+        is applied entirely in Compose via RodrigofyTheme — this XML theme
+        only controls the window/status bar before Compose takes over.
+    -->
+    <style name="Theme.Rodrigofy" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/sour_purple_10</item>
+        <item name="android:navigationBarColor">@color/sour_purple_10</item>
+        <item name="android:windowBackground">@color/guts_black</item>
+    </style>
+</resources>
