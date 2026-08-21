@@ -9,7 +9,7 @@ import java.security.SecureRandom
 
 object AuthManager {
     // Spotify Client ID - REMPLACE PAR TON CLIENT ID DE LA SPOTIFY DEVELOPER DASHBOARD
-    var clientId: String = "VOTRE_SPOTIFY_CLIENT_ID"
+    var clientId: String = "46112259e18347858bed6057adb615d8"
     const val REDIRECT_URI = "spotifyclient://callback"
     const val SCOPES = "user-read-private user-read-email user-library-read user-read-playback-state user-modify-playback-state streaming"
 
